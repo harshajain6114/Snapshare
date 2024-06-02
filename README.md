@@ -15,3 +15,4 @@ SnapShare is a decentralized photo marketplace where users can upload, mint, and
    ```bash
    git clone https://github.com/yourusername/snapshare.git
    cd snapshare
+
